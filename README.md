@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <h2 align="center">Confidential Cross-Chain P2P Exchange</h2>
 
 <p align="center">
