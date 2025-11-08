@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h2 align="center">Confidential Cross-Chain P2P Exchange</h2>
 
 <p align="center">
@@ -324,3 +325,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 </p>
 
 
+=======
+# avlon
+Our project builds a Confidential Cross-Chain P2P Exchange powered by Arcium’s MPC engine, enabling privacy-preserving identity verification and atomic trading across Solana and EVM chains.
+>>>>>>> ca8ad25c631f13937742b3aad2b2ee3378db6876
